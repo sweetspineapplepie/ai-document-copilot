@@ -33,7 +33,7 @@ pnpm-debug.log*
 *.parquet
 
 # IDE / OS
-.vscode/
+# .vscode/
 .idea/
 .DS_Store
 Thumbs.db

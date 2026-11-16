@@ -1,0 +1,22 @@
+{
+  "cSpell.enabled": true,
+  "cSpell.language": "en",
+  "cSpell.words": [
+    "ASGI",
+    "copilot",
+    "Driftwood",
+    "fastapi",
+    "getenv",
+    "mypy",
+    "pgvector",
+    "pycache",
+    "pydantic",
+    "pytest",
+    "setdefault",
+    "stdlib",
+    "Supabase",
+    "uvicorn",
+    "venv"
+  ],
+  "cSpell.ignorePaths": ["node_modules", "data", ".git", ".venv"]
+}
