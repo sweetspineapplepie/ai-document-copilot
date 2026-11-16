@@ -3,13 +3,16 @@
   "cSpell.language": "en",
   "cSpell.words": [
     "ASGI",
+    "astext",
     "copilot",
     "Driftwood",
     "fastapi",
     "getenv",
     "HNSW",
     "mypy",
+    "ondelete",
     "pgvector",
+    "poolclass",
     "pycache",
     "pydantic",
     "pytest",
@@ -21,5 +24,6 @@
     "uvicorn",
     "venv"
   ],
-  "cSpell.ignorePaths": ["node_modules", "data", ".git", ".venv"]
+  "cSpell.ignorePaths": ["node_modules", "data", ".git", ".venv"],
+  "python.terminal.useEnvFile": true
 }
